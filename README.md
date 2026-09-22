@@ -17,7 +17,6 @@ Atuo transformando dados e necessidades de negócio em dashboards, automações 
 - 📱 Desenvolvimento Mobile com **React Native / Expo**
 - 🗄️ Banco de dados, autenticação e APIs com **Supabase**
 - 🤖 Automação Web com **Playwright**
-- 📍 Maringá - PR, Brasil
 
 ---
 
